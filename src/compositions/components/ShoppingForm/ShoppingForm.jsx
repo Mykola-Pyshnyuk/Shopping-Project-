@@ -2,7 +2,7 @@ import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import styled from "styled-components";
 import { useFormik } from "formik";
-import Input from "../../../components/Input/input";
+import Input from "../../../components/Input/Input";
 import Button from "../../../components/Button/Button";
 import { actionResetLocalStorage } from "../../../store/slices/store.slice";
 import { validationSchema } from "./validation";
