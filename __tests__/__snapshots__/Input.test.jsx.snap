@@ -1,0 +1,17 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`test component Input > (snapshot) 1`] = `
+<DocumentFragment>
+  <label
+    class="sc-hvigdm Corlb"
+  >
+    <p />
+    <input
+      class="sc-bRKDuR cncRHf"
+      name="name"
+      placeholder="Enter name"
+      type="text"
+    />
+  </label>
+</DocumentFragment>
+`;

@@ -1,0 +1,86 @@
+[
+  {
+    "image": "productFoto1.png",
+    "key": "PRD-001",
+    "price": 69.99,
+    "brand": "Euphoria",
+    "name": "Shirts"
+  },
+  {
+    "image": "productFoto2.png",
+    "key": "PRD-002",
+    "price": 79.5,
+    "brand": "Euphoria",
+    "name": "Printed T-Shirts"
+  },
+  {
+    "image": "productFoto3.png",
+    "key": "PRD-003",
+    "price": 69.0,
+    "brand": "Euphoria",
+    "name": "Plain T-Shirts"
+  },
+  {
+    "image": "productFoto4.png",
+    "key": "PRD-004",
+    "price": 59.0,
+    "brand": "Euphoria",
+    "name": "Polo T-Shirt"
+  },
+  {
+    "image": "productFoto5.png",
+    "key": "PRD-005",
+    "price": 75.0,
+    "brand": "Euphoria",
+    "name": "Hoodies & Sweetshirt"
+  },
+  {
+    "image": "productFoto6.png",
+    "key": "PRD-006",
+    "price": 69.99,
+    "brand": "Euphoria",
+    "name": "Activewear"
+  },
+  {
+    "image": "productFoto7.png",
+    "key": "PRD-007",
+    "price": 35.99,
+    "brand": "Euphoria",
+    "name": "Jeans"
+  },
+  {
+    "image": "productFoto8.png",
+    "key": "PRD-008",
+    "price": 29.99,
+    "brand": "Euphoria",
+    "name": "Boxers"
+  },
+  {
+    "image": "productFoto9.png",
+    "key": "PRD-009",
+    "price": 89.99,
+    "brand": "Euphoria",
+    "name": "line Pattern Black H..."
+  },
+  {
+    "image": "productFoto10.png",
+    "key": "PRD-010",
+    "price": 69.99,
+    "brand": "Euphoria",
+    "name": "Hoodies & Sweetshirt"
+  },
+  {
+    "image": "productFoto11.png",
+    "key": "PRD-011",
+    "price": 79.99,
+    "brand": "Euphoria",
+    "name": "Coats & Parkas"
+  },
+  {
+    "image": "productFoto12.png",
+    "key": "PRD-012",
+    "price": 59.99,
+    "brand": "Euphoria",
+    "name": "Tees & T-Shirt"
+  }
+]
