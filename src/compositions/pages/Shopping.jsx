@@ -25,7 +25,7 @@ const Shopping = () => {
     <>
       <Title>
         Кількість продуктів в корзині: {products.length}, на суму $
-        {products.reduce((acc, product) => acc + product.price, 0)}
+        {products.reduce((acc, product) => acc + product.price, 0).toFixed(2)}
       </Title>
       <ShoppingForm />
       <ProductCardList products={products} showDeleteProduct={true} />
